@@ -1,6 +1,6 @@
 ﻿namespace Hikari
 {
-   partial class Form1
+   partial class HikariPlayground
    {
       /// <summary>
       /// Required designer variable.
