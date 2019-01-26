@@ -1,4 +1,5 @@
-﻿using System.Windows.Forms;
+﻿using System;
+using System.Windows.Forms;
 
 namespace Hikari
 {
@@ -8,5 +9,10 @@ namespace Hikari
 		{
 			InitializeComponent();
 		}
-	}
+
+		void HikariPlayground_Load(object sender, EventArgs e)
+      {
+
+      }
+   }
 }

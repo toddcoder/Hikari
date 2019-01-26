@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hikari", "Hikari.csproj", "{DAE6708E-7922-4E18-ADCC-8BC72D0804F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hikari.Library", "Hikari.Library\Hikari.Library.csproj", "{43D0A657-90F9-4E3A-AA6F-22AF30C7DB54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DAE6708E-7922-4E18-ADCC-8BC72D0804F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAE6708E-7922-4E18-ADCC-8BC72D0804F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAE6708E-7922-4E18-ADCC-8BC72D0804F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43D0A657-90F9-4E3A-AA6F-22AF30C7DB54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D0A657-90F9-4E3A-AA6F-22AF30C7DB54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D0A657-90F9-4E3A-AA6F-22AF30C7DB54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D0A657-90F9-4E3A-AA6F-22AF30C7DB54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
