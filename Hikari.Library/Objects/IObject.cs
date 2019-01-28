@@ -14,7 +14,7 @@ namespace Hikari.Library.Objects
 
 		bool IsEqualTo(IObject obj);
 
-		bool Match(IObject comparisand, Hash<string, Binding> bindings);
+		bool Match(IObject source, Hash<string, Binding> bindings);
 
 		bool IsTrue { get; }
    }

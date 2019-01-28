@@ -45,9 +45,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Binding.cs" />
+    <Compile Include="Classes\ObjectClass.cs" />
     <Compile Include="IInterfaceContext.cs" />
     <Compile Include="Objects\Int.cs" />
     <Compile Include="Objects\IObject.cs" />
+    <Compile Include="Objects\Selector.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Putter.cs" />
   </ItemGroup>
